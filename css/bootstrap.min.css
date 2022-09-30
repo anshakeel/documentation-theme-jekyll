@@ -5312,8 +5312,8 @@ fieldset[disabled] .navbar-default .btn-link:hover {
 }
 
 .navbar-inverse {
-    background-color: #222;
-    border-color: #080808
+    background-color: #61bb49;
+    border-color: #ffffff
 }
 
 .navbar-inverse .navbar-brand {
@@ -5645,12 +5645,12 @@ a.label:hover {
 }
 
 .label-primary {
-    background-color: #337ab7
+    background-color: #61bb49
 }
 
 .label-primary[href]:focus,
 .label-primary[href]:hover {
-    background-color: #286090
+    background-color: #61bb49
 }
 
 .label-success {
@@ -5727,7 +5727,7 @@ a.badge:hover {
 
 .list-group-item.active>.badge,
 .nav-pills>.active>a>.badge {
-    color: #337ab7;
+    color: #61bb49;
     background-color: #fff
 }
 
